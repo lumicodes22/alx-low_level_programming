@@ -1,10 +1,11 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
+
 /**
  * main - Entry point
  * Discription: 'Positive anything is better than negative nothing'
- * Return: always 0
+ * Return: Always (success)
  */
 int main(void)
 {
